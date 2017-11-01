@@ -29,7 +29,5 @@ public class PreviousMonth {
         
         System.out.println("ENDING START DATE: " + sdf.format(startDate));
         System.out.println("ENDING END DATE:   " + sdf.format(endDate));
-        
-
     }
 }
